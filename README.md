@@ -7,6 +7,6 @@
 
 Consult Merbot's [wiki] (CONTRIBUTING.md) for documentation.
 
-Please open a github issue if you found an issue 
+Please open a github [issue] (#issues) if you found an issue 
 
 P.S.Developed under the android.
