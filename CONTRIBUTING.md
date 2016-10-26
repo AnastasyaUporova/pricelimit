@@ -1,17 +1,9 @@
 # Contributing to PriceLimit
 
-:+1: :tada: First off, thanks for taking the time to contribute! :tada: :+1:
-
-We really glad you're reading this, because we need volunteer developers to help this project come to fruition.
-
-The following is a set of guidelines for contributing to PriceLimit on GitHub.
-These are just guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
+:+1: :tada: We really glad you're reading this, because we need volunteer developers to help this project come to fruition.
 
 
-#### **Did you find a bug?**
+## Join the conversation
 
-* **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/rails/rails/issues).
+Have an idea for PriceLimit? Found a bug? We encourage you to start a conversation on the PriceLimit Google Group or to file a new issue on GitHub before writing code. Announcing what you're working on (or even just your need or pain points) starts a collaborative process to identify general solutions and helps us all avoid duplicating effort.
 
-* If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/rails/rails/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
-
-## PriceLimit is a volunteer effort. We encourage you to pitch in and join the team!
