@@ -7,10 +7,6 @@ We really glad you're reading this, because we need volunteer developers to help
 The following is a set of guidelines for contributing to PriceLimit on GitHub.
 These are just guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
-#### Table Of Contents
-
-[What should I know before I get started?](#what-should-i-know-before-i-get-started)
-* [Code of Conduct](#code-of-conduct)
 
 #### **Did you find a bug?**
 
