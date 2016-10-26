@@ -1,7 +1,8 @@
 # Project PriceLimit
+
 ## Contributing
 
-You'd like to contribute to my portfolio repo? I'm flattered. While this repository is specifically geared to showing my work, there are a couple of really great ways to contribute:
+You'd like to contribute to my portfolio repo? Thank you. While this repository is specifically geared to showing my work, there are a couple of really great ways to contribute:
 
 ## Reporting Bugs
 
