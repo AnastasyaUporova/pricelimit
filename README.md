@@ -5,4 +5,8 @@
 2. Calculate the final cost of purchases
 3. Consider limit of budget for everyday purchases and warn about overlimit
 
-Developed under the android.
+Consult Merbot's wiki for documentation.
+
+Please open a github issue if you found an issue 
+
+P.S.Developed under the android.
