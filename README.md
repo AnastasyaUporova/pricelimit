@@ -1,8 +1,7 @@
 # Project PriceLimit!
 
 
-![example](http://savepic.ru/11950903.png)
-
+![example](http://savepic.ru/11957046.png)
 ## PriceLimit is designed to do the following:
 1. Scan and recognize price 
 2. Calculate the final cost of purchases
