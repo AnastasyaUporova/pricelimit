@@ -17,6 +17,8 @@
 
 * [Version Control] (https://github.com/AnastasyaUporova/pricelimit/wiki/Version-Control)
 
+* [Newsletter for Users] (https://groups.google.com/forum/#!forum/pricelimit)
+
 * Если вы хотите участвовать в обсуждении и разработке, то присоединяйтесь в наш [онлайн чат]   (https://pricelimit.slack.com/)
 
 * [Наш сайт] (https://anastasyauporova.github.io/pricelimit/)
