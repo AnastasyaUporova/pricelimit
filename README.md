@@ -14,3 +14,4 @@ Please open a github [issue] (https://github.com/AnastasyaUporova/pricelimit/iss
 [Instructions on how to join the team] (https://github.com/AnastasyaUporova/pricelimit/wiki/Instructions-on-how-to-join-the-team)
 
 P.S.Developed under the android.
+
