@@ -9,7 +9,8 @@
 
 Consult [wiki] (https://github.com/AnastasyaUporova/pricelimit/wiki) for documentation.
 
-Please open a github [issue] (https://github.com/AnastasyaUporova/pricelimit/issues) if you found an issue 
+Please open a github [issue] (https://github.com/AnastasyaUporova/pricelimit/issues) if you found an issue.
+
 [Instructions on how to join the team] (https://github.com/AnastasyaUporova/pricelimit/wiki/Instructions-on-how-to-join-the-team)
 
 P.S.Developed under the android.
