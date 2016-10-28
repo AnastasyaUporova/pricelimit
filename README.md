@@ -12,7 +12,8 @@ Consult [wiki] (https://github.com/AnastasyaUporova/pricelimit/wiki) for documen
 Please open a github [issue] (https://github.com/AnastasyaUporova/pricelimit/issues) if you found an issue.
 
 [Instructions on how to join the team] (https://github.com/AnastasyaUporova/pricelimit/wiki/Instructions-on-how-to-join-the-team)
+[Version Control] (https://github.com/AnastasyaUporova/pricelimit/wiki/Version-Control)
+[Если вы хотите участвовать в обсуждении и разработке, то присоединяйтесь в наш онлайн чат  (cайт: slack.com, название группы: pricelimit)]- (https://pricelimit.slack.com/)
 
 P.S.Developed under the android.
-
 
