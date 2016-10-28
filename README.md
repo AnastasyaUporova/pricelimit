@@ -7,6 +7,8 @@
 2. Calculate the final cost of purchases
 3. Consider limit of budget for everyday purchases and warn about overlimit
 
+
+## Useful links
 Consult [wiki] (https://github.com/AnastasyaUporova/pricelimit/wiki) for documentation.
 
 Please open a github [issue] (https://github.com/AnastasyaUporova/pricelimit/issues) if you found an issue.
