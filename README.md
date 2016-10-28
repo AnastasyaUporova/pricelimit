@@ -15,7 +15,7 @@ Please open a github [issue] (https://github.com/AnastasyaUporova/pricelimit/iss
 
 [Version Control] (https://github.com/AnastasyaUporova/pricelimit/wiki/Version-Control)
 
-[Если вы хотите участвовать в обсуждении и разработке, то присоединяйтесь в наш онлайн чат  (cайт: slack.com, название группы: pricelimit)]- (https://pricelimit.slack.com/)
+[Если вы хотите участвовать в обсуждении и разработке, то присоединяйтесь в наш [онлайн чат]   (https://pricelimit.slack.com/)
 
 P.S.Developed under the android. 
 
