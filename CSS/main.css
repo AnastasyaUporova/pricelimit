@@ -3,3 +3,18 @@ body, front-boxed {
     height: 100%;
     background-color: #F5F5F5;
 }
+
+.page-wrapper {
+    background-color: #ffffff;
+}
+
+/* Boxed Layout
+---------------------------------- */
+.boxed .page-wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    -webkit-box-shadow: 0px 0px 10px #cacaca;;
+    box-shadow: 0px 0px 10px #cacaca;;
+    height: 100%;
+}
