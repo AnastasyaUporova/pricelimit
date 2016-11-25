@@ -21,7 +21,7 @@
 
 * Если вы хотите участвовать в обсуждении и разработке, то присоединяйтесь в наш [онлайн чат]   (https://pricelimit.slack.com/)
 
-* [Наш сайт] (https://anastasyauporova.github.io/pricelimit/)
+* [Website] (https://anastasyauporova.github.io/pricelimit/)
 
 P.S.Developed under the android. 
 
